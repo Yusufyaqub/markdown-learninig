@@ -2,7 +2,7 @@
 This repo is to show how to use Markdown
 
 
-# Tutorial
+# Heading
 
 ## This is two level heading
 
@@ -13,3 +13,8 @@ This repo is to show how to use Markdown
 ##### This is 5 level heading
 
 ###### This is 6 level heading
+ 
+
+# Bold
+
+**This text will be italic**
