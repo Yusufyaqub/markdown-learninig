@@ -18,4 +18,12 @@ This repo is to show how to use Markdown
 # Bold
 
 **This text is bolded**
+
 This text is not bolded
+
+
+# Italicized
+
+_This text is italic_
+
+This text is not italic
