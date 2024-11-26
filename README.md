@@ -27,3 +27,19 @@ This text is not bolded
 _This text is italic_
 
 This text is not italic
+
+# List
+
+Unordered Lists: You can make an unordered list by proceeding list items with either a -, *, or +,
+
+- Number 1
+- Number 2
+- Number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++ Number 1
++ Number 2
++ Number 3
