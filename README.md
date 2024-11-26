@@ -54,3 +54,7 @@ Ordered Lists: Ordered lists are created using numbers:
 2. Two
 3. Three
 4. Four
+
+Bold and etalicized
+
+_**Bolded and Etalicized**_
