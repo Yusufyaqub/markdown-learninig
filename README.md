@@ -17,4 +17,5 @@ This repo is to show how to use Markdown
 
 # Bold
 
-**This text will be italic**
+**This text is bolded**
+This text is not bolded
