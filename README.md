@@ -74,3 +74,8 @@ _**Bolded and Etalicized**_
 ```python
 Print("Hello, world!")
 ```
+
+
+```bash
+git clone "link of repo"
+```
