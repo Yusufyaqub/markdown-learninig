@@ -66,3 +66,11 @@ _**Bolded and Etalicized**_
 
 # Image
 ! [Github logo]()
+
+
+# Code and Syntax
+
+
+```python
+Print("Hello, world!")
+```
