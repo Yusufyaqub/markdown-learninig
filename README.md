@@ -85,4 +85,20 @@ git clone "link of repo"
 
 | Name     | Role    | Department   |
 |----------|---------|--------------|
+| Yusuf    | Yakubu  | Aliyu        |
+| Ja'afar  | Aliyu   | Yakubu       |
 
+
+# List
+
+- [x] Complete Markdown lecture
+- [x] Prepare assignments
+- [ ] Review student submissions
+
+
+# Hrizontal Line
+
+---
+
+***
+      
